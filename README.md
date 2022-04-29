@@ -1,6 +1,6 @@
 # emotion_twitter
 This project extracts emotional attributes from the twitter posts to gain knowledge about the emotional status of the inhabitants of a particular region.
-For this, we collect twitter posts that is related to covid-19 and perform a transfer learning approach to predict the emotional status of the tweet. We collect our dataset from kaggle and implement a Bert pretrained model to identify emotions on the tweets. We perform evaluation on TweetEval dataset in which our Bert model shows 72\% accuracy.
+For this, we collect twitter posts that is related to covid-19 and perform a transfer learning approach to predict the emotional status of the tweet. We collect our dataset from kaggle and implement a Bert pretrained model to identify emotions on the tweets. We perform evaluation on TweetEval dataset in which our Bert model shows 80\% accuracy.
 
 # Files in this project
 - Evaluation.ipynb 
